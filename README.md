@@ -1,10 +1,11 @@
 
 <div align="center">
+   <img src="https://media4.giphy.com/media/6mI3VtLfTSOmiY67uz/giphy.gif?cid=790b76110766606b8e21ef9fd9b3e6dbe268e0a71bb4bfdb&rid=giphy.gif&ct=s" width="120px">
    <h3>Hi, I'm Thinh Le <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
    <p>I'm currently a Front-end developer</p>
    <img width = 35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/277px-Vue.js_Logo_2.svg.png"/>
-   <img width = 35 src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"/>
-   <img width = 125 src="https://www.vendure.io/docs/storefront/building-a-storefront/vue-storefront-logo.png"/>
+   <img width = 35 src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"/><br>
+   <img width = 245 src="https://www.vendure.io/docs/storefront/building-a-storefront/vue-storefront-logo.png"/>
    <h4>
 --- <a href='https://heyday1515.github.io/Portfolio/' target='_blank'>Portfolio</a> --- <a href='https://join.skype.com/invite/V0Xz7wIrwhgU' target='_blank'>Skype</a> --- <a href='https://www.linkedin.com/in/thinh-le-profile/' target='_blank'>Linkedin</a> ---
    </h4>
