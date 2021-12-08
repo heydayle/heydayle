@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://media4.giphy.com/media/6mI3VtLfTSOmiY67uz/giphy.gif?cid=790b76110766606b8e21ef9fd9b3e6dbe268e0a71bb4bfdb&rid=giphy.gif&ct=s" width="120px">
+   <img src="https://emojis.slackmojis.com/emojis/images/1583190527/7949/catlun.gif?1583190527">
    <h3>Hi, I'm Thinh Le <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
    <p>I'm currently a Front-end developer</p>
    <img width = 35 src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/>
