@@ -13,7 +13,8 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=heyday1515&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=heyday1515&theme=dark&hide_border=true" width = 400>
 </div>
-</div>
+   
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=heyday1515.heyday1515" />
 </p>
+</div>
