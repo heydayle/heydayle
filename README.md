@@ -1,7 +1,9 @@
 
 <div align="center">
    <h4>
-   <img width="30" src="https://emojis.slackmojis.com/emojis/images/1619778232/34535/rainbow.gif?1619778232">Hi, I'm Thinh Le <img src="https://emojis.slackmojis.com/emojis/images/1583190527/7949/catlun.gif?1583190527" width="40px"></h4>
+      <img src="https://emojis.slackmojis.com/emojis/images/1583190527/7949/catlun.gif?1583190527" width="40px">
+      Hi, I'm Thinh Le
+   </h4>
    <p>I'm currently a Front-end developer from Vietnam <img width="40" src="https://emojis.slackmojis.com/emojis/images/1629643703/48981/meow_vn.png?1629643703"/></p>
    <img width = 35 src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/>
    <img width = 38 src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"/><br>
