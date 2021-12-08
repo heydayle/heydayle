@@ -1,6 +1,6 @@
 
 <div align="center">
-      <img src="https://media1.giphy.com/media/Yl4o5pGl4pYHOerzVQ/giphy.gif?cid=ecf05e47wzi27kbout8h54hgbsd578guhhrn6y8jci2fiadl&rid=giphy.gif&ct=s" width="80px" height="30px" alt="Nyan_Cat_animated">
+      <img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
    <h4>
       Hi, I'm Thinh Le
    </h4>
@@ -15,7 +15,8 @@
       <img src = "https://github-readme-stats.vercel.app/api?username=heydayle&show_icons=true&theme=bear" width = 400>
       <img src = "https://github-readme-streak-stats.herokuapp.com?user=heydayle&theme=dark&hide_border=true" width = 400>
    </div>
-      _________________
-<!--       <img src="https://visitor-badge.glitch.me/badge?page_id=heydayle.heydayle" /> -->
-         [![Visits Badge](https://badges.pufler.dev/visits/heydayle/heydayle)]
 </div>
+           
+ <img src="https://visitor-badge.glitch.me/badge?page_id=heydayle.heydayle" />
+
+
