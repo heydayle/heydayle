@@ -15,7 +15,7 @@
       <img src = "https://github-readme-stats.vercel.app/api?username=heydayle&show_icons=true&theme=bear" width = 400>
       <img src = "https://github-readme-streak-stats.herokuapp.com?user=heydayle&theme=dark&hide_border=true" width = 400>
    </div>
-   <div align="center">
+      _________________
 <!--       <img src="https://visitor-badge.glitch.me/badge?page_id=heydayle.heydayle" /> -->
-   </div>
+         [![Visits Badge](https://badges.pufler.dev/visits/heydayle/heydayle)]
 </div>
