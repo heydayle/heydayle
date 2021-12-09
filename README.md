@@ -1,13 +1,13 @@
 ## Hi, I'm Thinh Le
 <p>I'm currently a Front-end developer from Vietnam <img width="35" src="https://i.giphy.com/media/zBfalNdTyCek8ZEk18/giphy.webp"/></p>
 <div>
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
-<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="80px" height="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px"alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
+<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated">
       </div>
 <div align="center">
 <!--    <img width = 35 src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/> -->
