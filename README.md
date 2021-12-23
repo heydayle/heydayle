@@ -1,4 +1,7 @@
-## 𝙷𝚒, 𝙸'𝚖 𝚃𝚑𝚒𝚗𝚑 𝙻𝚎
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 
+
+<div>█░░ █▀▀   █▀▄ █░█ █▀█ █▄░█ █▀▀   █░█ █░█ █▄░█ █▀▀   ▀█▀ █░█ █ █▄░█ █░█</div>
+█▄▄ ██▄   █▄▀ █▄█ █▄█ █░▀█ █▄█   █▀█ █▄█ █░▀█ █▄█   ░█░ █▀█ █ █░▀█ █▀█
 
 <p>𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚅𝚒𝚎𝚝𝚗𝚊𝚖 <img width="35" src="https://i.giphy.com/media/zBfalNdTyCek8ZEk18/giphy.webp"/><img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="70px" alt="Nyan_Cat_animated"></p>
 <div>
