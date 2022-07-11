@@ -10,7 +10,7 @@
 </p>
 
 <p align=center>
-      <a href='https://heydayle.github.io/Portfolio/' target='_blank'>M𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a> ıllıllı <a href='https://heydayle.github.io/' target='_blank'>𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</a> ıllıllı <a href='https://wakatime.com/@heyday' target='_blank'>𝙼𝚢 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎</a>
+      <a href='https://heydayle.github.io/Portfolio/' target='_blank'>M𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a> ıllıllı <a href='https://heydayle.github.io/' target='_blank'>𝙻𝚊𝚗𝚍𝚒𝚗𝚐 𝙿𝚊𝚐𝚎</a> ıllıllı <a href='https://wakatime.com/@heyday' target='_blank'>𝙼𝚢 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎</a>
 </p>
 
 <div align="center">
