@@ -19,6 +19,9 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=heydayle&show_icons=true&theme=bear" width = 400>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=heydayle&theme=dark&hide_border=true" width = 400>
 </div>
+<div align="center">
+<img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heydayle&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
 <h3 align=center>        
 <img src="https://visitor-badge.glitch.me/badge?page_id=heydayle.heydayle" />
 </h3>
