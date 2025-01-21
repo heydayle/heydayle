@@ -1,8 +1,9 @@
-<p>
+##        ------------------ Front-end Developer | React / Vue | Next / Nuxt / Astro | <a href='https://thinh.io.vn' target='_blank'>Profile</a> ------------------
+ 
+<p align="center">
   <img src="https://api.daily.dev/devcards/v2/oiCdlYIstAeaIN9TCzOQ5.png?type=default&r=7dh" width="356" alt="Thinh Le's Dev Card"/>
+</p>
 
-  Front-end Developer | React && Vue | Next && Nuxt && Astro |
-<a href='https://thinh.io.vn' target='_blank'>Profile</a>
  <!--   
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
@@ -37,10 +38,13 @@
   ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-</p> -->
+</p>
 
-
+<p style="margin: auto">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydayle&layout=compact)
+
+</p> -->
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heyday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
