@@ -1,4 +1,9 @@
-### Front-end Developer | React / Vue | Next / Nuxt / Astro | <a href='https://thinh.io.vn' target='_blank'>Profile</a>
+### Front-end Engineer 
+
+React / Vue
+Next / Nuxt / AÁtro
+
+<a href='https://thinh.io.vn' target='_blank'>Profile</a>
  
 <p align="center">
  <!-- <img src="https://api.daily.dev/devcards/v2/oiCdlYIstAeaIN9TCzOQ5.png?type=default&r=7dh" width="356" alt="Thinh Le's Dev Card"/> -->
