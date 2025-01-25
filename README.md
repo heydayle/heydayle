@@ -1,6 +1,6 @@
 ### \<Front-end Engineer /\>
 
-<React /> | <Vue />
+\<React /\> | \<Vue /\>
 
 <Next / Nuxt / Astro />
 
