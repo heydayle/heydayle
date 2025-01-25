@@ -1,8 +1,8 @@
-### Front-end Engineer 
+### <Front-end Engineer />
 
-React / Vue
+<React /> | <Vue />
 
-Next / Nuxt / Astro
+<Next / Nuxt / Astro />
 
 <a href='https://thinh.io.vn' target='_blank'>Profile</a>
  
