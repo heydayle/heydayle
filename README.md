@@ -4,7 +4,11 @@
 
 <Next / Nuxt / Astro />
 
-<a href='https://thinh.io.vn' target='_blank'>Profile</a>
+<a href='https://thinh.io.vn' target='_blank'><Profile\/></a>
+
+Game: <a href='https://checkmath.io.vn' target='_blank'><CHECKMATH\/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><Three Solar\/></a> 
+
+Chatbot: <a href='https://next-gen-ai-two.vercel.app/' target='_blank'><dev-AI-oka\/></a>
  
 <!--
 <p align="center">
