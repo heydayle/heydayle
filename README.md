@@ -1,15 +1,22 @@
 ### \<Front-end Engineer /\>
 
-\<React /\> | \<Vue /\>
+\<Frameworks>
 
-<Next / Nuxt / Astro />
+ - <React /\>
+ - <Vue /\>
+ - <Next / Nuxt / Astro />
 
-<a href='https://thinh.io.vn' target='_blank'><Profile\/></a>
+\<Frameworks \/>
 
-Game: <a href='https://checkmath.io.vn' target='_blank'><CHECKMATH\/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><Three Solar\/></a> 
+\<Personal>
 
-Chatbot: <a href='https://next-gen-ai-two.vercel.app/' target='_blank'><dev-AI-oka\/></a>
- 
+   - Portfolio: <a href='https://thinh.io.vn' target='_blank'><Profile \/></a>
+
+   - Projects: <a href='https://checkmath.io.vn' target='_blank'><CHECKMATH \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><ThreeSolar \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><NuxtStarter \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><CV Template \/></a>
+
+   - Chatbot: <a href='https://next-gen-ai-two.vercel.app/' target='_blank'><dev-AI-oka \/></a>
+
+ <Personal \/>
 <!--
 <p align="center">
  <img src="https://api.daily.dev/devcards/v2/oiCdlYIstAeaIN9TCzOQ5.png?type=default&r=7dh" width="356" alt="Thinh Le's Dev Card"/>
