@@ -1,22 +1,22 @@
-###  \<𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 /\>
+###  \<𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 /\>
 
-\<𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜>
+\<𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌>
 
- - <𝚁𝚎𝚊𝚌𝚝 /\>
- - <𝚅𝚞𝚎 /\>
- - <𝙽𝚎𝚡𝚝 / 𝙽𝚞𝚡𝚝 / 𝙰𝚜𝚝𝚛𝚘 />
+ - <React /\>
+ - <Vue /\>
+ - <Next / Nuxt / Astro />
 
-\<𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 \/>
+\<𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 \/>
 
-\<𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕>
+\<𝖯𝖾𝗋𝗌𝗈𝗇𝖺𝗅>
 
-   - 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: &nbsp; <a href='https://thinh.io.vn' target='_blank'> <𝙿𝚛𝚘𝚏𝚒𝚕𝚎 \/></a>
+   - Portfolio: &nbsp; <a href='https://thinh.io.vn' target='_blank'> <𝖯𝗋𝗈𝖿𝗂𝗅𝖾 \/></a>
 
-   - 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜: &nbsp;&nbsp; <a href='https://checkmath.io.vn' target='_blank'><𝙲𝙷𝙴𝙲𝙺𝙼𝙰𝚃𝙷 \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><𝚃𝚑𝚛𝚎𝚎𝚂𝚘𝚕𝚊𝚛 \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><𝙽𝚞𝚡𝚝𝚂𝚝𝚊𝚛𝚝𝚎𝚛 \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><𝙲𝚅 𝚃𝚎𝚖𝚙𝚕𝚊𝚝𝚎 \/></a>
+   - Projects: &nbsp;&nbsp; <a href='https://checkmath.io.vn' target='_blank'><Checkmath \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><ThreeSolar \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><NuxtStarter \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><CVTemplate \/></a>
 
-   - 𝙲𝚑𝚊𝚝𝚋𝚘𝚝: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://next-gen-ai-two.vercel.app/' target='_blank'><𝚍𝚎𝚟-𝙰𝙸-𝚘𝚔𝚊 \/></a>
+   - Chatbot: &nbsp;&nbsp;&nbsp; <a href='https://next-gen-ai-two.vercel.app/' target='_blank'><𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺 \/></a>
 
- <𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 \/>
+ <𝖯𝖾𝗋𝗌𝗈𝗇𝖺𝗅 \/>
 <!--
 <p align="center">
  <img src="https://api.daily.dev/devcards/v2/oiCdlYIstAeaIN9TCzOQ5.png?type=default&r=7dh" width="356" alt="Thinh Le's Dev Card"/>
