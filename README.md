@@ -1,13 +1,7 @@
 ###  \<𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 /\>
 
-\<Languages>
-
 ![img](https://api.iconify.design/vscode-icons:file-type-js-official.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-typescript-official.svg?width=40px)
-
-\</Languages>
-
-\<𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌>
 
 ![img](https://api.iconify.design/vscode-icons:file-type-reactjs.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-vue.svg?width=40px)
@@ -15,17 +9,11 @@
 ![img](https://api.iconify.design/vscode-icons:file-type-nuxt.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-astro.svg?width=38px)
 
-\<\/𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌>
-
-\<𝖯𝖾𝗋𝗌𝗈𝗇𝖺𝗅>
-
    - Portfolio: &nbsp; <a href='https://thinh.io.vn' target='_blank'> <𝖯𝗋𝗈𝖿𝗂𝗅𝖾 \/></a>
 
    - Projects: &nbsp; <a href='https://checkmath.io.vn' target='_blank'><Checkmath \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><ThreeSolar \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><NuxtStarter \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><CVTemplate \/></a>
 
    - Chatbot: &nbsp;&nbsp;<a href='https://next-gen-ai-two.vercel.app/' target='_blank'><𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺 \/></a>
-
- <\/𝖯𝖾𝗋𝗌𝗈𝗇𝖺𝗅>
 
  <img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=heydayle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=heydayle&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=heydayle&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
