@@ -11,7 +11,7 @@
 
    - Portfolio: &nbsp; <a href='https://thinh.io.vn' target='_blank'> <𝖯𝗋𝗈𝖿𝗂𝗅𝖾 \/></a>
 
-   - Projects: &nbsp; <a href='https://checkmath.io.vn' target='_blank'><Checkmath \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><ThreeSolar \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><NuxtStarter \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><CVTemplate \/></a>
+   - Projects: &nbsp; <a href='https://checkmath.io.vn' target='_blank'><Checkmath \/></a> | <a href='https://react-three-ts.vercel.app/' target='_blank'><ThreeSolar \/></a> | <a href='https://winuxt.vercel.app/' target='_blank'><NuxtStarter \/></a> | <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'><CVTemplate \/></a> | <a href='https://memories.thinh.io.vn' target='_blank'><Memories \/></a>
 
    - Chatbot: &nbsp;&nbsp;<a href='https://next-gen-ai-two.vercel.app/' target='_blank'><𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺 \/></a>
 
