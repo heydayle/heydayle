@@ -14,8 +14,8 @@
    <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://winuxt.vercel.app/' target='_blank'>nuxt starter</a> |
    <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'> cv template</a> |
-   <a href='https://memories.thinh.io.vn' target='_blank'>gallery</a> |
-   <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a>
+   <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a> |
+   <a href='https://memories.thinh.io.vn' target='_blank'>gallery</a>
 </samp>
  <!--<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=heydayle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=heydayle&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=heydayle&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
