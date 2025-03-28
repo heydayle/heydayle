@@ -9,6 +9,7 @@
 ![img](https://api.iconify.design/vscode-icons:file-type-astro.svg?width=38px)
 
 <samp>
+   <p>Like an improvisational artist with an instrument, I'm a developer inspired to harmonize  with my code, weaving logic and following flow with an exceptional level of sophistication, surpassing ordinary syntax!</p>
    <a href='https://thinh.io.vn' target='_blank'>me</a> |
    <a href='https://checkmath.io.vn' target='_blank'>checkmath</a> |
    <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
