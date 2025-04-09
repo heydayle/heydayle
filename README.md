@@ -12,6 +12,7 @@
    <p>Like an improvisational artist with an instrument, I'm a developer inspired to harmonize  with my code, weaving logic and following flow with an exceptional level of sophistication, surpassing ordinary syntax!</p>
    <a href='https://thinh.io.vn' target='_blank'>me</a> |
    <a href='https://devaloka.dev' target='_blank'>devaloka</a> |
+   <a href='https://decide-for-you.vercel.app/' target='_blank'>Devaloka's Guidance</a> |
    <a href='https://checkmath.io.vn' target='_blank'>checkmath</a> |
    <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://winuxt.vercel.app/' target='_blank'>nuxt starter</a> |
