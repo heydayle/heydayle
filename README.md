@@ -29,7 +29,7 @@ Unreal Engine 5 challenges 05/2025
 
 <samp>
 
-[] Getting Started with UE5
+[-] Getting Started with UE5
 
 [] Blueprints
 
