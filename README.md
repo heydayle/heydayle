@@ -11,14 +11,13 @@
 <samp>
    <p>Like an improvisational artist with an instrument, I'm a developer inspired to harmonize  with my code, weaving logic and following flow with an exceptional level of sophistication, surpassing ordinary syntax!</p>
    <a href='https://thinh.io.vn' target='_blank'>me</a> |
+   <a href='https://memories.thinh.io.vn' target='_blank'>gallery</a> |
    <a href='https://devaloka.dev' target='_blank'>devaloka</a> |
-   <a href='https://decide-for-you.vercel.app/' target='_blank'>guidance</a> |
-   <a href='https://checkmath.io.vn' target='_blank'>checkmath</a> |
-   <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt boilerplate</a> |
+   <a href='https://decide-for-you.vercel.app/' target='_blank'>guidance</a> |
+   <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'> cv template</a> |
-   <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a> |
-   <a href='https://memories.thinh.io.vn' target='_blank'>gallery</a>
+   <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a>
 </samp>
 
  <!--<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=heydayle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=heydayle&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
