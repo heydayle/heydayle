@@ -20,6 +20,10 @@
    <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a>
 </samp>
 
+---
+
+[![heydayle Nuxter profile](https://nuxters.nuxt.com/card/heydayle/og.png)](https://nuxters.nuxt.com/heydayle)
+
  <!--<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=heydayle&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=heydayle&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=heydayle&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
  [![Visits Badge](https://komarev.com/ghpvc/?username=heydayle&label=Profile%20views&color=41b883&style=for-the-badge)](https://thinh.io.vn) -->
