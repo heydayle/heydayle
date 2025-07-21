@@ -14,6 +14,7 @@
    <a href='https://memories.thinh.io.vn' target='_blank'>gallery</a> |
    <a href='https://devaloka.dev' target='_blank'>devaloka</a> |
    <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt boilerplate</a> |
+   <a href='https://liquid-glass-ebon.vercel.app/' target='_blank'>liquid glass</a> |
    <a href='https://decide-for-you.vercel.app/' target='_blank'>guidance</a> |
    <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'> cv template</a> |
