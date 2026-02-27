@@ -12,6 +12,7 @@
 <samp>
    <p>Like an improvisational artist with an instrument, I'm a developer inspired to harmonize  with my code, weaving logic and following flow with an exceptional level of sophistication, surpassing ordinary syntax!</p>
    <a href='https://devaloka.dev' target='_blank'>me</a> |
+   <a href='https://memories.thinh.io.vn/' target='_blank'>gallery</a> |
    <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt boilerplate</a> |
    <a href='https://liquid-glass-ebon.vercel.app/' target='_blank'>liquid glass</a> |
    <a href='https://decide-for-you.vercel.app/' target='_blank'>guidance</a> |
