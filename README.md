@@ -16,7 +16,7 @@
    <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt boilerplate</a> |
    <a href='https://numerology-plum.vercel.app/' target='_blank'>numberology</a> |
    <a href='https://liquid-glass-ebon.vercel.app/' target='_blank'>liquid glass</a> |
-   <a href='https://decide-for-you.vercel.app/' target='_blank'>guidance</a> |
+   <a href='https://vibe.j2team.org/god-decides' target='_blank'>guidance</a> |
    <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
    <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'> cv template</a> |
    <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a> |
