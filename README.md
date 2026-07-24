@@ -1,25 +1,23 @@
 
 [![wakatime](https://wakatime.com/badge/user/8bde352e-dea9-4bf1-a34e-a5caea77becc.svg)](https://wakatime.com/@8bde352e-dea9-4bf1-a34e-a5caea77becc)
 
-![img](https://api.iconify.design/vscode-icons:file-type-js-official.svg?width=40px)
+<!--![img](https://api.iconify.design/vscode-icons:file-type-js-official.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-typescript-official.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-reactjs.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-vue.svg?width=40px)
 ![img](https://api.iconify.design/logos:nextjs-icon.svg?width=40px)
 ![img](https://api.iconify.design/vscode-icons:file-type-nuxt.svg?width=40px)
-![img](https://api.iconify.design/vscode-icons:file-type-astro.svg?width=38px)
+![img](https://api.iconify.design/vscode-icons:file-type-astro.svg?width=38px)-->
 
 <samp>
-   <p>Like an improvisational artist with an instrument, I'm a developer inspired to harmonize  with my code, weaving logic and following flow with an exceptional level of sophistication, surpassing ordinary syntax!</p>
-   <a href='https://devaloka.dev' target='_blank'>me</a> |
+   <a href='https://thinh.io.vn' target='_blank'>me</a> |
    <a href='https://memories.thinh.io.vn/' target='_blank'>gallery</a> |
-   <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt boilerplate</a> |
+   <a href='https://ez-knowledge.xyz/' target='_blank'>news</a> |
+   <a href='https://nuxt-boilerplate-starter.vercel.app/' target='_blank'>nuxt template</a> |
    <a href='https://numerology-plum.vercel.app/' target='_blank'>numberology</a> |
    <a href='https://liquid-glass-ebon.vercel.app/' target='_blank'>liquid glass</a> |
    <a href='https://vibe.j2team.org/god-decides' target='_blank'>guidance</a> |
-   <a href='https://react-three-ts.vercel.app/' target='_blank'>three solar</a> |
-   <a href='https://github.com/heydayle/nuxt-3-cv-template' target='_blank'> cv template</a> |
-   <a href='https://next-gen-ai-two.vercel.app/' target='_blank'>𝖽𝖾𝗏-𝖠𝖨-𝗈𝗄𝖺</a> |
+   <a href='https://react-three-ts.vercel.app/' target='_blank'>solar</a> |
    <a href='https://github.com/heydayle/telegram-vocabulary-saver?tab=readme-ov-file#telegram-vocabulary-saver' target='_blank'>extension</a>
 </samp>
 
